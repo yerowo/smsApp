@@ -24,8 +24,8 @@ on your browser check your localhost and enter details.
 
 ## interface
 
-![plot](./public/imgs/screen1.jpg)
+![plot](./public/imgs/screen1.JPG)
 
-![plot](./public/imgs/screen2.jpg)
+![plot](./public/imgs/screen2.JPG)
 
-![plot](./public/imgs/screen3.jpg)
+![plot](./public/imgs/screen3.JPG)
